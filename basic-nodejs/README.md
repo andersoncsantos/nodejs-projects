@@ -5,6 +5,7 @@ npm install sequelize
 npm install pg-hstore pg
 npm i --save-dev mocha
 npm install mongoose
+npm install hapi
 npm audit fix
 
 ```
